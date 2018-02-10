@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: 87261474485c6fe4fb663c3d4822bb78
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Medieval_Ram_Animated
+    100002: //RootNode
+    100004: Ram_Bone_01
+    100006: Ram_Bone_02
+    100008: Ram_Bone_03
+    100010: Ram_Bone_04
+    100012: Ram_Bone_05
+    100014: Ram_Bone_root
+    100016: Ram_Wheel_Bone_00
+    100018: Ram_Wheel_Bone_01
+    100020: Ram_Wheel_Bone_02
+    400000: Medieval_Ram_Animated
+    400002: //RootNode
+    400004: Ram_Bone_01
+    400006: Ram_Bone_02
+    400008: Ram_Bone_03
+    400010: Ram_Bone_04
+    400012: Ram_Bone_05
+    400014: Ram_Bone_root
+    400016: Ram_Wheel_Bone_00
+    400018: Ram_Wheel_Bone_01
+    400020: Ram_Wheel_Bone_02
+    2300000: Ram_Bone_01
+    2300002: Ram_Bone_02
+    2300004: Ram_Bone_03
+    2300006: Ram_Bone_04
+    2300008: Ram_Bone_05
+    2300010: Ram_Bone_root
+    2300012: Ram_Wheel_Bone_00
+    2300014: Ram_Wheel_Bone_01
+    2300016: Ram_Wheel_Bone_02
+    3300000: Ram_Bone_01
+    3300002: Ram_Bone_02
+    3300004: Ram_Bone_03
+    3300006: Ram_Bone_04
+    3300008: Ram_Bone_05
+    3300010: Ram_Bone_root
+    3300012: Ram_Wheel_Bone_00
+    3300014: Ram_Wheel_Bone_01
+    3300016: Ram_Wheel_Bone_02
+    4300000: Medieval_Ram_Animated
+    4300002: Ram_Bone_root
+    4300004: Ram_Bone_01
+    4300006: Ram_Bone_04
+    4300008: Ram_Bone_03
+    4300010: Ram_Bone_02
+    4300012: Ram_Bone_05
+    4300014: Ram_Wheel_Bone_01
+    4300016: Ram_Wheel_Bone_00
+    4300018: Ram_Wheel_Bone_02
+    7400000: Ram_idle
+    7400002: Ram_Sart_Strike
+    7400004: Ram_Strike_loop
+    7400006: Ram_Loaded
+    7400008: Ram_Finishing_Strike
+    7400010: Ram_Moving
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Medieval_Ram_Animated
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Ram_idle
+      takeName: Medieval_Ram_04
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Medieval_Ram_Animated
+        weight: 1
+      - path: Ram_Bone_root
+        weight: 1
+      - path: Ram_Bone_root/Ram_Bone_01
+        weight: 1
+      - path: Ram_Bone_root/Ram_Bone_02
+        weight: 1
+      - path: Ram_Bone_root/Ram_Bone_03
+        weight: 1
+      - path: Ram_Bone_root/Ram_Bone_04
+        weight: 1
+      - path: Ram_Bone_root/Ram_Bone_05
+        weight: 1
+      - path: Ram_Bone_root/Ram_Wheel_Bone_00
+        weight: 1
+      - path: Ram_Bone_root/Ram_Wheel_Bone_01
+        weight: 1
+      - path: Ram_Bone_root/Ram_Wheel_Bone_02
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Ram_Sart_Strike
+      takeName: Medieval_Ram_04
+      firstFrame: 1
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Medieval_Ram_Animated
+        weight: 1
+      - path: Ram_Bone_root
+        weight: 1
+      - path: Ram_Bone_root/Ram_Bone_01
+        weight: 1
+      - path: Ram_Bone_root/Ram_Bone_02
+        weight: 1
+      - path: Ram_Bone_root/Ram_Bone_03
+        weight: 1
+      - path: Ram_Bone_root/Ram_Bone_04
+        weight: 1
+      - path: Ram_Bone_root/Ram_Bone_05
+        weight: 1
+      - path: Ram_Bone_root/Ram_Wheel_Bone_00
+        weight: 1
+      - path: Ram_Bone_root/Ram_Wheel_Bone_01
+        weight: 1
+      - path: Ram_Bone_root/Ram_Wheel_Bone_02
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Ram_Strike_loop
+      takeName: Medieval_Ram_04
+      firstFrame: 20
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Medieval_Ram_Animated
+        weight: 1
+      - path: Ram_Bone_root
+        weight: 1
+      - path: Ram_Bone_root/Ram_Bone_01
+        weight: 1
+      - path: Ram_Bone_root/Ram_Bone_02
+        weight: 1
+      - path: Ram_Bone_root/Ram_Bone_03
+        weight: 1
+      - path: Ram_Bone_root/Ram_Bone_04
+        weight: 1
+      - path: Ram_Bone_root/Ram_Bone_05
+        weight: 1
+      - path: Ram_Bone_root/Ram_Wheel_Bone_00
+        weight: 1
+      - path: Ram_Bone_root/Ram_Wheel_Bone_01
+        weight: 1
+      - path: Ram_Bone_root/Ram_Wheel_Bone_02
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Ram_Loaded
+      takeName: Medieval_Ram_04
+      firstFrame: 70
+      lastFrame: 71
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Medieval_Ram_Animated
+        weight: 1
+      - path: Ram_Bone_root
+        weight: 1
+      - path: Ram_Bone_root/Ram_Bone_01
+        weight: 1
+      - path: Ram_Bone_root/Ram_Bone_02
+        weight: 1
+      - path: Ram_Bone_root/Ram_Bone_03
+        weight: 1
+      - path: Ram_Bone_root/Ram_Bone_04
+        weight: 1
+      - path: Ram_Bone_root/Ram_Bone_05
+        weight: 1
+      - path: Ram_Bone_root/Ram_Wheel_Bone_00
+        weight: 1
+      - path: Ram_Bone_root/Ram_Wheel_Bone_01
+        weight: 1
+      - path: Ram_Bone_root/Ram_Wheel_Bone_02
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Ram_Finishing_Strike
+      takeName: Medieval_Ram_04
+      firstFrame: 71
+      lastFrame: 135
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Medieval_Ram_Animated
+        weight: 1
+      - path: Ram_Bone_root
+        weight: 1
+      - path: Ram_Bone_root/Ram_Bone_01
+        weight: 1
+      - path: Ram_Bone_root/Ram_Bone_02
+        weight: 1
+      - path: Ram_Bone_root/Ram_Bone_03
+        weight: 1
+      - path: Ram_Bone_root/Ram_Bone_04
+        weight: 1
+      - path: Ram_Bone_root/Ram_Bone_05
+        weight: 1
+      - path: Ram_Bone_root/Ram_Wheel_Bone_00
+        weight: 1
+      - path: Ram_Bone_root/Ram_Wheel_Bone_01
+        weight: 1
+      - path: Ram_Bone_root/Ram_Wheel_Bone_02
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Ram_Moving
+      takeName: Medieval_Ram_04
+      firstFrame: 135
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Medieval_Ram_Animated
+        weight: 1
+      - path: Ram_Bone_root
+        weight: 1
+      - path: Ram_Bone_root/Ram_Bone_01
+        weight: 1
+      - path: Ram_Bone_root/Ram_Bone_02
+        weight: 1
+      - path: Ram_Bone_root/Ram_Bone_03
+        weight: 1
+      - path: Ram_Bone_root/Ram_Bone_04
+        weight: 1
+      - path: Ram_Bone_root/Ram_Bone_05
+        weight: 1
+      - path: Ram_Bone_root/Ram_Wheel_Bone_00
+        weight: 1
+      - path: Ram_Bone_root/Ram_Wheel_Bone_01
+        weight: 1
+      - path: Ram_Bone_root/Ram_Wheel_Bone_02
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

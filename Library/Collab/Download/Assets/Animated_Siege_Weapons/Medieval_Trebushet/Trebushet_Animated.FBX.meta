@@ -1,0 +1,349 @@
+fileFormatVersion: 2
+guid: 822c3db27bc7ef54d9af5c5307b68821
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Medieval_Trebushet_Animated
+    100002: TR_Bone_04
+    100004: TR_Bone_05
+    100006: TR_Bone_06
+    100008: TR_Bone_07
+    100010: TR_Bone_08
+    100012: TR_Bone_09
+    100014: TR_Bone_10
+    100016: TR_Bone_11
+    100018: TR_Bone_12
+    100020: TR_Bone_13
+    100022: TR_Bone_14
+    100024: TR_Bone_15
+    100026: TR_Bone_16
+    100028: TR_Bone_17
+    100030: TR_ROOT_Bone_03
+    100032: //RootNode
+    400000: Medieval_Trebushet_Animated
+    400002: TR_Bone_04
+    400004: TR_Bone_05
+    400006: TR_Bone_06
+    400008: TR_Bone_07
+    400010: TR_Bone_08
+    400012: TR_Bone_09
+    400014: TR_Bone_10
+    400016: TR_Bone_11
+    400018: TR_Bone_12
+    400020: TR_Bone_13
+    400022: TR_Bone_14
+    400024: TR_Bone_15
+    400026: TR_Bone_16
+    400028: TR_Bone_17
+    400030: TR_ROOT_Bone_03
+    400032: //RootNode
+    4300000: Medieval_Trebushet_Animated
+    7400000: Trebushet_idle
+    7400002: Trebushet_shot
+    7400004: Trebushet_after_shot
+    7400006: Trebushet_loading
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Medieval_Trebushet_Animated
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Trebushet_idle
+      takeName: Trebushet_animated01
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Medieval_Trebushet_Animated
+        weight: 1
+      - path: TR_ROOT_Bone_03
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_04
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_04/TR_Bone_05
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_04/TR_Bone_05/TR_Bone_06
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_04/TR_Bone_05/TR_Bone_06/TR_Bone_07
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_04/TR_Bone_05/TR_Bone_06/TR_Bone_07/TR_Bone_08
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_04/TR_Bone_05/TR_Bone_06/TR_Bone_07/TR_Bone_08/TR_Bone_09
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_04/TR_Bone_10
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_04/TR_Bone_11
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_12
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_12/TR_Bone_13
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_14
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_15
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_15/TR_Bone_16
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_17
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Trebushet_shot
+      takeName: Trebushet_animated01
+      firstFrame: 1
+      lastFrame: 110
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Medieval_Trebushet_Animated
+        weight: 1
+      - path: TR_ROOT_Bone_03
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_04
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_04/TR_Bone_05
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_04/TR_Bone_05/TR_Bone_06
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_04/TR_Bone_05/TR_Bone_06/TR_Bone_07
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_04/TR_Bone_05/TR_Bone_06/TR_Bone_07/TR_Bone_08
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_04/TR_Bone_05/TR_Bone_06/TR_Bone_07/TR_Bone_08/TR_Bone_09
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_04/TR_Bone_10
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_04/TR_Bone_11
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_12
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_12/TR_Bone_13
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_14
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_15
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_15/TR_Bone_16
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_17
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Trebushet_after_shot
+      takeName: Trebushet_animated01
+      firstFrame: 110
+      lastFrame: 111
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Medieval_Trebushet_Animated
+        weight: 1
+      - path: TR_ROOT_Bone_03
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_04
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_04/TR_Bone_05
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_04/TR_Bone_05/TR_Bone_06
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_04/TR_Bone_05/TR_Bone_06/TR_Bone_07
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_04/TR_Bone_05/TR_Bone_06/TR_Bone_07/TR_Bone_08
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_04/TR_Bone_05/TR_Bone_06/TR_Bone_07/TR_Bone_08/TR_Bone_09
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_04/TR_Bone_10
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_04/TR_Bone_11
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_12
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_12/TR_Bone_13
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_14
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_15
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_15/TR_Bone_16
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_17
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Trebushet_loading
+      takeName: Trebushet_animated01
+      firstFrame: 111
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Medieval_Trebushet_Animated
+        weight: 1
+      - path: TR_ROOT_Bone_03
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_04
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_04/TR_Bone_05
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_04/TR_Bone_05/TR_Bone_06
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_04/TR_Bone_05/TR_Bone_06/TR_Bone_07
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_04/TR_Bone_05/TR_Bone_06/TR_Bone_07/TR_Bone_08
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_04/TR_Bone_05/TR_Bone_06/TR_Bone_07/TR_Bone_08/TR_Bone_09
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_04/TR_Bone_10
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_04/TR_Bone_11
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_12
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_12/TR_Bone_13
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_14
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_15
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_15/TR_Bone_16
+        weight: 1
+      - path: TR_ROOT_Bone_03/TR_Bone_17
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
